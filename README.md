@@ -1,4 +1,10 @@
 ### Hi there 👋
+I am BALOGUN Daniel Adeniji
+
+I design Mobile Applications, adm turn ideas to innovation using Flutter.
+I would be glad to join you on your latest projects and together we can make the world better.
+
+#IdeasToInnovation
 
 <!--
 **Adenonso/Adenonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
