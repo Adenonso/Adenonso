@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am BALOGUN Daniel Adeniji
 
-I design Mobile Applications, adm turn ideas to innovation using Flutter.
+I design Mobile Applications, and turn ideas to innovation using Flutter.
 I would be glad to join you on your latest projects and together we can make the world better.
 
 #IdeasToInnovation
